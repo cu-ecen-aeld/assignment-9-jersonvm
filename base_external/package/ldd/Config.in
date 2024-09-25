@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  Includes support for building and installing the misc-modules and scull components on the qemu target based on the assignment 7 fork of the ldd3 repository.
