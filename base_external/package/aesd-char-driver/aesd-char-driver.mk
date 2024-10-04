@@ -6,7 +6,7 @@
 ##############################################################
 
 
-AESD_CHAR_DRIVER_VERSION = '70af008c875d3de69a1b69a5123ac1c2530b5715'
+AESD_CHAR_DRIVER_VERSION = '7c2ae24a0ff54a3358cb3fa7fff3877a1272556c'
 AESD_CHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-jersonvm.git'
 AESD_CHAR_DRIVER_SITE_METHOD = git
 AESD_CHAR_DRIVER_GIT_SUBMODULES = YES
